@@ -26,4 +26,4 @@ jobs:
       uses: ioggstream/bandit-report-artifacts@v0.0.1
       with:
         # This is the path at which the your python project is located in you github repo.
-        project_path: .
+        project_path: app.py
